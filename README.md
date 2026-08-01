@@ -1,1 +1,1 @@
-# ChatGPT-prompting-probes-Language-Assessment-Quarterly-
+# ChatGPT-prompting-probes
